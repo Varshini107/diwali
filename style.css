@@ -1,0 +1,24 @@
+body{
+    background-image: url(bbbbb.gif);
+    min-height: 100vh;
+    z-index: -10;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    margin-top: 40% ;
+}
+h1{
+    text-align: center;
+    font-weight: 100px;
+}
+#button{
+    display: flex;
+    justify-content: center ;
+    margin-left: 43%;
+    background-color: white;
+    border: 2px solid black; 
+    color: green;   
+    font-size: 20px; 
+    cursor: pointer;
+}

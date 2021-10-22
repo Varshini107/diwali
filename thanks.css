@@ -1,0 +1,9 @@
+body{
+    background-image: url(diwali\ greetings\ 2\ \(6\).gif);
+    min-height: 100vh;
+    z-index: -10;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
